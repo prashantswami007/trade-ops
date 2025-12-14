@@ -21,7 +21,13 @@ const pool = new Pool({
 });
 
 // Middleware
-app.use(cors());
+app.use(cors({
+  origin: [
+    'http://localhost:5173',
+    'https://trade-ops-frontend.onrender.com' // Add your actual frontend URL
+  ],
+  credentials: true
+}));
 app.use(express.json());
 app.use(helmet());
 app.use(morgan("dev"));

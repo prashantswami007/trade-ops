@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trades>
+
+    <order>
+        <client_id>1</client_id>
+        <stock_symbol>AAPL</stock_symbol>
+        <type>BUY</type>
+        <quantity>10</quantity>
+        <price>176.20</price>
+        <trade_date>2024-12-01</trade_date>
+    </order>
+
+    <order>
+        <client_id>1</client_id>
+        <stock_symbol>TSLA</stock_symbol>
+        <type>SELL</type>
+        <quantity>5</quantity>
+        <price>248.75</price>
+        <trade_date>2024-12-02</trade_date>
+    </order>
+
+    <order>
+        <client_id>2</client_id>
+        <stock_symbol>GOOGL</stock_symbol>
+        <type>BUY</type>
+        <quantity>8</quantity>
+        <price>141.90</price>
+        <trade_date>2024-12-03</trade_date>
+    </order>
+
+    <order>
+        <client_id>2</client_id>
+        <stock_symbol>AMZN</stock_symbol>
+        <type>SELL</type>
+        <quantity>3</quantity>
+        <price>153.40</price>
+        <trade_date>2024-12-04</trade_date>
+    </order>
+
+    <order>
+        <client_id>3</client_id>
+        <stock_symbol>MSFT</stock_symbol>
+        <type>BUY</type>
+        <quantity>12</quantity>
+        <price>381.25</price>
+        <trade_date>2024-12-05</trade_date>
+    </order>
+
+    <order>
+        <client_id>3</client_id>
+        <stock_symbol>NVDA</stock_symbol>
+        <type>BUY</type>
+        <quantity>6</quantity>
+        <price>495.80</price>
+        <trade_date>2024-12-06</trade_date>
+    </order>
+
+    <order>
+        <client_id>4</client_id>
+        <stock_symbol>META</stock_symbol>
+        <type>SELL</type>
+        <quantity>10</quantity>
+        <price>332.10</price>
+        <trade_date>2024-12-06</trade_date>
+    </order>
+
+    <order>
+        <client_id>4</client_id>
+        <stock_symbol>AAPL</stock_symbol>
+        <type>BUY</type>
+        <quantity>25</quantity>
+        <price>174.90</price>
+        <trade_date>2024-12-07</trade_date>
+    </order>
+
+    <order>
+        <client_id>5</client_id>
+        <stock_symbol>JPM</stock_symbol>
+        <type>BUY</type>
+        <quantity>40</quantity>
+        <price>168.30</price>
+        <trade_date>2024-12-08</trade_date>
+    </order>
+
+    <order>
+        <client_id>6</client_id>
+        <stock_symbol>AMD</stock_symbol>
+        <type>SELL</type>
+        <quantity>20</quantity>
+        <price>142.75</price>
+        <trade_date>2024-12-08</trade_date>
+    </order>
+
+    <order>
+        <client_id>7</client_id>
+        <stock_symbol>TSLA</stock_symbol>
+        <type>BUY</type>
+        <quantity>50</quantity>
+        <price>252.40</price>
+        <trade_date>2024-12-09</trade_date>
+    </order>
+
+    <order>
+        <client_id>8</client_id>
+        <stock_symbol>ORCL</stock_symbol>
+        <type>BUY</type>
+        <quantity>15</quantity>
+        <price>118.60</price>
+        <trade_date>2024-12-09</trade_date>
+    </order>
+
+    <order>
+        <client_id>9</client_id>
+        <stock_symbol>CSCO</stock_symbol>
+        <type>SELL</type>
+        <quantity>30</quantity>
+        <price>53.90</price>
+        <trade_date>2024-12-10</trade_date>
+    </order>
+
+    <order>
+        <client_id>10</client_id>
+        <stock_symbol>MSFT</stock_symbol>
+        <type>BUY</type>
+        <quantity>40</quantity>
+        <price>379.50</price>
+        <trade_date>2024-12-10</trade_date>
+    </order>
+
+</trades>

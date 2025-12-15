@@ -24,7 +24,7 @@ const pool = new Pool({
 app.use(cors({
   origin: [
     'http://localhost:5173',
-    'https://trade-ops.onrender.com' // Add your actual frontend URL
+    'https://trade-ops-frontend.onrender.com' // Add your actual frontend URL
   ],
   credentials: true
 }));

@@ -459,7 +459,7 @@ export default function TradeOpsApp() {
         </div>
 
         <footer className="mt-12 py-6 text-center text-xs text-slate-600 border-t border-slate-800/50">
-          <p>© 2025 TradeOps Simulator • Educational Portfolio</p>
+          <p>© 2025 TradeOps Simulator • Developed by Prashant</p>
         </footer>
       </div>
     </div>

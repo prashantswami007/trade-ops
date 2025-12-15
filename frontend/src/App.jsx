@@ -124,7 +124,7 @@ export default function TradeOpsApp() {
               </div>
               <div>
                 {/* UPDATED: Smaller font size on mobile */}
-                <h1 className="text-base sm:text-lg font-bold text-white tracking-wide leading-none">
+                <h1 className="text-xl sm:text-2xl font-bold text-white tracking-wide leading-none">
                   TradeOps Simulator
                 </h1>
                 <p className="text-[10px] uppercase tracking-wider text-slate-400 font-medium mt-0.5">
